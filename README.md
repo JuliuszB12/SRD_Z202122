@@ -66,13 +66,13 @@ Godziny i lokalizacja zajęć:
 ---
 
 ### Dodatkowe punkty
- * Prace domowe
+ * Prace domowe - max `5pkt`
  * Konkurs modelarski - max `5pkt`
    * Konkurs będzie przeprowadzony na szóstych zajęciach
    * Zadaniem będzie optymalizacja określonej miary jakości modelu np. accuracy w klasyfikacji zadanej zmiennej na udostępnionym zbiorze danych
-   * Praca będzie przebiegać w grupach 2-3 osobowych, do końca zajęć będzie możliwość wysyłania kodu i predykcji na danych testowych na _lukasz.krainski123@gmail.com_ lub _lkrain@sgh.waw.pl_
+   * Praca będzie przebiegać w grupach 2-3 osobowych, do końca zajęć będzie możliwość wysyłania kodu i predykcji na danych testowych na _lkrain@sgh.waw.pl_
     * Zespół, który osiągnie najlepszy wynik miary jakości otrzyma 5pkt, kolejny 4pkt, itd.
- * Realizacja kursu https://juliaacademy.com/p/introduction-to-dataframes-jl1 `5pkt` - proszę przesyłać certyfikaty ukończenia kursu na _lukasz.krainski123@gmail.com_ lub _lkrain@sgh.waw.pl_
+ * Realizacja kursu https://juliaacademy.com/p/introduction-to-dataframes-jl1 `5pkt` - proszę przesyłać certyfikaty ukończenia kursu na _lkrain@sgh.waw.pl_
 
 ---
 
