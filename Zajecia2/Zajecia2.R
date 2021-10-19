@@ -13,7 +13,7 @@ set.seed(10)
 #Dataset description: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/german/german.doc (or in GitHub repo)
 DATA_SET = read.fwf("http://archive.ics.uci.edu/ml/machine-learning-databases/statlog/german/german.data-numeric", widths = rep(4, 25), header = FALSE)
 names(DATA_SET)[25] = "target"
-DATA_SET$target = DATA_SET$target - 1 #recoding target variable
+DATA_SET$target = 2 - DATA_SET$target #recoding target variable
 
 # Splitting into train and validation subsets - easier version
 rand = sample(1:nrow(DATA_SET),0.8*nrow(DATA_SET)) #random 80% of indexes values
