@@ -67,6 +67,11 @@ Godziny i lokalizacja zajęć:
 
 ### Dodatkowe punkty
  * Prace domowe - max `5pkt`
+    1. Przeczytaj artykuł [Assessment of the size of VaR backtests for small samples](https://ps.stat.gov.pl/Article/2020/2/114-151)
+    2. Przygotuj kod źródłowy w języku **Julia** lub **R** dla jednego z przedstawionych w tekście testów walidacyjnych (`Backtest`) modeli Wartości Zagrożonej (`Value at Risk - VaR`)
+    3. Przeprowadź ocenę rozmiaru tego testu, przygotowując odpowiedni wykres (analogiczny jak na stronach 16-29 artykułu) oraz tabelę z wynikami (parametry: $T_O, T_U, A_O, A_U, A$)
+    4. Finalny raport powinien zawierać informacje o wybranym teście, wykres z wynikami, tabelę z wynikami, wykorzystany kod źródłowy. Raport może być przygotowany w dowolnym narzędziu, np. Jupyter, Word, etc. Raport należy wysłać na adres _lkrain@sgh.waw.pl_. Pracę domową można wysyłać do końca semestru.
+
  * Konkurs modelarski - max `5pkt`
    * Konkurs będzie przeprowadzony na szóstych zajęciach
    * Zadaniem będzie optymalizacja określonej miary jakości modelu np. accuracy w klasyfikacji zadanej zmiennej na udostępnionym zbiorze danych
