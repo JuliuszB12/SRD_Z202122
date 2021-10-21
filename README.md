@@ -73,6 +73,7 @@ Godziny i lokalizacja zajęć:
    * Praca będzie przebiegać w grupach 2-3 osobowych, do końca zajęć będzie możliwość wysyłania kodu i predykcji na danych testowych na _lkrain@sgh.waw.pl_
     * Zespół, który osiągnie najlepszy wynik miary jakości otrzyma 5pkt, kolejny 4pkt, itd.
  * Realizacja kursu https://juliaacademy.com/p/introduction-to-dataframes-jl1 `5pkt` - proszę przesyłać certyfikaty ukończenia kursu na _lkrain@sgh.waw.pl_
+ * Przedstawienie 4 zaakceptowanych Pull Requestów do projektów Open Source - `10pkt`
 
 ---
 
