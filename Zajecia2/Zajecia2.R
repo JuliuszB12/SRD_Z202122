@@ -81,7 +81,7 @@ legend("topright", c("Validation", "Training", "Random"),
 
 #What is random outcome?
 m=mean(DATA_SET$target)
-COST_MATRIX[2,1]*m/2+COST_MATRIX[1,2]*(1-m)/2
+COST_MATRIX[2,1]*(1-m)/2+COST_MATRIX[1,2]*m/2
 
 #Looks like we got lower cost for predictions on training set, but model may OVERFIT.
 #Splitting data into training and validation set is done to avoid overfitting
