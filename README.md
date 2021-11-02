@@ -45,7 +45,6 @@ Godziny i lokalizacja zajęć:
 | 5 | Deep Learning|
 | 6 | Konkurs modelarski|
 | 7 | Zaliczenie komputerowe |
-| 8 | Termin dodatkowy |
 
 ### Literatura
 
