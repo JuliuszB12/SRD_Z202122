@@ -1,0 +1,12 @@
+Dataset DATA4-12 contains information about 51 states in USA. Every state is desscribed by 11 demographic and economic features:
+-MORT: mortality per 100 000 residents
+-INCC: income per capita in dollars,
+-POV: fraction of families living below poverty line,
+-EDU1: fraction of population that finished 4 years of high school education,
+-EDU2: fraction of population that finished 4 years of university education,
+-ALCC: alcohol consumption in gallons,
+-TOBC: tobacco consumption per capita in packs,
+-HEXC: healthcare expenditure per capita in dollars,
+-PHYS: number of doctors per 100 000 residents,
+-URB: fraction of population living in urban areas,
+-AGED: fraction of population older than 65 years
