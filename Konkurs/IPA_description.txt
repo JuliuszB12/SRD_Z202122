@@ -1,0 +1,14 @@
+Description of data in IPA.csv file.
+Dataset contains 37 000 observations about craft beers from whole world.
+Data from Brewer's Friend website.
+Columns:
+IsIPA - Is given beer an IPA?
+OG - Specific gravity of wort before fermentation
+FG - Specific gravity of wort after fermentation
+ABV - Alcohol By Volume
+IBU - International Bittering Units
+Color - Standard Reference Method - light to dark ex. 40 = black
+BoilGravity - Specific gravity of wort before the boil
+PitchRate - Yeast added to the fermentor per gravity unit - M cells/ml/deg P
+Efficiency - Beer mash extraction efficiency - extracting sugars from the grain during mash
+UserId - ID of Brewer's Friend user who shared data
