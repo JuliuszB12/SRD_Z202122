@@ -9,7 +9,12 @@ Celem konkursu jest uzyskanie jak największego [F1-score](https://en.wikipedia.
 Wyniki należy przesłać na adres lkrain@sgh.waw.pl do godziny:
 - 17:30 - grupa 5
 - 19:20 - grupa 3
-- 21:10 - grupa 4
+- 21:10 - grupa 4 i 2
+
+Pozostałe grupy wysyłają wyniki na adres dkaszy@sgh.waw.pl do godziny:
+- 17:30 - grupa 6
+- 19:20 - grupa 1
+
 
 Wiadomości otrzymane po określonych godzinach nie będą przyjmowane. W treści maila należy podać nazwę grupy oraz imiona i nazwiska członków. Jako załączniki należy zamieścić:
 1. Skrypt ze stworzonym kodem (w dowolnym języku programowania)
