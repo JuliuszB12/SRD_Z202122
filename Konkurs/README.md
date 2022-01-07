@@ -28,6 +28,18 @@ Tabela z rankingiem zespołów pojawi się na GitHubie w poniższym pliku README
 
 ## Wyniki
 
+Zajęcia Grupy 2 (19:00-20:30)
+
+|       Zespół      | F1-score | Punkty |  Język |          Model         |
+|-----------------|--------|------|------|----------------------|
+| Aksolotl          | 79,30%   | 5      | Python | Las losowy             |
+| Piwomaniacy       | 78,54%   | 4      | R      | Las losowy             |
+| Solo Queue         | 78,52%   | 3      | Python | Las losowy             |
+| Randomowe Stworki | 78,34%   | 2      | R      | Ekstremalny las losowy |
+| A1AH              | 78,28%   | 1      | Python | Las losowy             |
+| AFH               | 78,23%   | 0      | R      | Las losowy             |
+| Wiedźmin Dwa       | 77,98%   | 0      | R      | Głęboka Sieć Neuronowa |
+
 Zajęcia Grupy 3 (17:10-18:50)
 
 | Zespół            | F1-score | Punkty | Język  | Model                  |
