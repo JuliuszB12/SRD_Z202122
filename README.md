@@ -60,7 +60,11 @@ Godziny i lokalizacja zajęć:
 ### Zaliczenie ćwiczeń (50 punktów)
 * Pisemne kolokwium na ostatnich ćwiczeniach
 * Każdy z Państwa otrzyma spersonalizowany zestaw zadań w pliku `.R`. Zadania będą obejmować przykłady praktyczne wymagające wykorzystanie kodu omawianego na ćwiczeniach oraz zadania teoretyczne sprawdzające znajomość zagadnień i koncepcji poruszonych w trakcie semestru. Jest wymagana tylko znajomość kodu R, zagadnienia omawiane przy materiałach w Pythonie mogą pojawić się w części teoretycznej.
-* Wypełniony plik z odpowiedziami należy wysłać na _lkrain@sgh.waw.pl_ do końca zajęć
+* Pliki się w zakładce Pliki w MS Teams tuż przed zajęciami
+* Wypełniony plik z odpowiedziami należy wysłać na _lkrain@sgh.waw.pl_ do godziny:
+  * 17:20 - zajęcia o 15:20
+  * 19:10 - zajęcia o 17:10
+  * 21:00 - zajęcia o 19:00
 
 ---
 
